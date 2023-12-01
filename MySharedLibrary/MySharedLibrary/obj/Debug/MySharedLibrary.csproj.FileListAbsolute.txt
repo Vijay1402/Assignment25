@@ -1,0 +1,6 @@
+G:\SimpliLearn\Phase 1\Day 20\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.dll
+G:\SimpliLearn\Phase 1\Day 20\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.pdb
+G:\SimpliLearn\Phase 1\Day 20\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.AssemblyReference.cache
+G:\SimpliLearn\Phase 1\Day 20\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.csproj.CoreCompileInputs.cache
+G:\SimpliLearn\Phase 1\Day 20\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.dll
+G:\SimpliLearn\Phase 1\Day 20\MySharedLibrary\MySharedLibrary\obj\Debug\MySharedLibrary.pdb

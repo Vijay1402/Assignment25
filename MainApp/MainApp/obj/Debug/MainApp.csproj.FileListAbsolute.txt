@@ -1,0 +1,10 @@
+G:\SimpliLearn\Phase 1\Day 20\MainApp\MainApp\bin\Debug\MainApp.exe.config
+G:\SimpliLearn\Phase 1\Day 20\MainApp\MainApp\bin\Debug\MainApp.exe
+G:\SimpliLearn\Phase 1\Day 20\MainApp\MainApp\bin\Debug\MainApp.pdb
+G:\SimpliLearn\Phase 1\Day 20\MainApp\MainApp\bin\Debug\MySharedLibrary.dll
+G:\SimpliLearn\Phase 1\Day 20\MainApp\MainApp\bin\Debug\MySharedLibrary.pdb
+G:\SimpliLearn\Phase 1\Day 20\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+G:\SimpliLearn\Phase 1\Day 20\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+G:\SimpliLearn\Phase 1\Day 20\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+G:\SimpliLearn\Phase 1\Day 20\MainApp\MainApp\obj\Debug\MainApp.exe
+G:\SimpliLearn\Phase 1\Day 20\MainApp\MainApp\obj\Debug\MainApp.pdb
